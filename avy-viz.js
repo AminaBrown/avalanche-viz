@@ -316,4 +316,4 @@ function RadarChart(id, data, options) {
 			  color: color
 			};
 			//Call function to draw the Radar chart
-			RadarChart(".radarChart", data, radarChartOptions);
+			RadarChart(".radarchart", data, radarChartOptions);
